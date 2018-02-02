@@ -1,0 +1,6 @@
+type : "shotgun_task"
+
+name : "content"
+
+create_with_parent : true
+
